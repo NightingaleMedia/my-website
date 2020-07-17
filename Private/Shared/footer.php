@@ -150,15 +150,15 @@
                             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                                 <div class="copyright-left text-md-left text-center">
                                     <ul class="bk-copyright-menu d-flex justify-content-center justify-content-md-start flex-wrap flex-sm-nowrap">
-                                        <li><a href="#">Portfolio</a></li>
-                                        <li><a href="#">My Resume </a></li>
+                                        <li><a href="https://nightingalemedia.github.io">Portfolio</a></li>
+                                        <li><a href="https://drive.google.com/file/d/1fdZfEX-X7Hq7FBaph6_INP7hDPjZf7Xx/view?usp=sharing">My Resume </a></li>
                                         <li><a href="#">Everything Else</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                                 <div class="copyright-right text-md-right text-center">
-                                    <p>© 2019 Designed by Me.</p>
+                                    <p>© 2020 Designed by Me.</p>
                                 </div>
                             </div>
                         </div>
@@ -180,6 +180,7 @@
     <!-- Js Files -->
   <script src="<?php echo url_for("/misra-vids/misra-playlist.js");?>"></script>
   <script src="<?php echo url_for("/js/vendor/jquery.min.js");?>"></script>
+   <script src="<?php echo url_for("js/bootstrap.min.js");?>"></script>
 
  <script src="<?php echo url_for("/js/sketch.js");?>"></script>
  <script src="<?php echo url_for("/js/anime.js");?>"></script> 

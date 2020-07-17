@@ -41,24 +41,24 @@
           <!-- Start Single Portfolio -->
           <div class="portfolio-33-33 coding design">
             <div class="portfolio with-caption">
-              <div class="thumb video-with-thumb">
+              <div class="thumb">
                 <a href="portfolio-details.html">
-                <img src="img/video-1.png" alt="portfolio images">
+                <img src="img/landing-portfolio/orderform.png" alt="portfolio images">
                  </a>
 
                 <!-- Start Single Popup -->
-                <div class="video-btn position--center">
+                <!-- <div class="video-btn position--center">
                   <a class="play__btn" href="https://www.youtube.com/watch?v=9No-FiEInLA">
                     <div class="video-icon yellow-color-2"></div>
                   </a>
-                </div>
+                </div> -->
                 <!-- End Single Popup -->
 
               </div>
               <div class="caption-bottom text-center">
                 <div class="info">
                   <h5 class="heading heading-h5">
-                    <a href="http://ledlightingsupplyco.com" target="_blank">Wholesale Online Catalog</a></h5>
+                    <a href="http://ledlightingsupplyco.com" target="_blank">SPA Online Ordering Form</a></h5>
                   <p class="bk_pra">Coding</p>
                 </div>
               </div>
@@ -71,7 +71,7 @@
             <div class="portfolio with-caption">
               <div class="thumb">
                 <a href="portfolio-details.html">
-                <img src="img/video-1.png" alt="portfolio images">
+                <img src="img/landing-portfolio/bai.png" alt="portfolio images">
                                 </a>
               </div>
               <div class="caption-bottom text-center">
@@ -90,7 +90,7 @@
             <div class="portfolio with-caption">
               <div class="thumb">
                 <a href="http://random-access-cards.herokuapp.com">
-               <img src="img/video-1.png" alt="portfolio images">  </a>
+               <img src="img/landing-portfolio/flashcard.png" alt="portfolio images">  </a>
               </div>
               <div class="caption-bottom text-center">
                 <div class="info">
@@ -106,21 +106,21 @@
           <!-- Start Single Portfolio -->
           <div class="portfolio-33-33 coding design">
             <div class="portfolio with-caption">
-              <div class="thumb video-with-thumb">
-                <a href="https://www.youtube.com/watch?v=9No-FiEInLA">
-                 <img src="img/video-1.png" alt="portfolio images">
+              <div class="thumb">
+                <a href="https://laurieslumens.com/">
+                 <img src="img/landing-portfolio/lumens.png" alt="portfolio images">
                                 </a>
                 <!-- Start Single Popup -->
-                <div class="video-btn position--center">
+                <!-- <div class="video-btn position--center">
                   <a class="play__btn" href="https://www.youtube.com/watch?v=9No-FiEInLA">
                     <div class="video-icon yellow-color-2"></div>
                   </a>
-                </div>
+                </div> -->
                 <!-- End Single Popup -->
               </div>
               <div class="caption-bottom text-center">
                 <div class="info">
-                  <h5 class="heading heading-h5"><a href="#">Lumens Web Application</a></h5>
+                  <h5 class="heading heading-h5"><a href="#">Lumens Web App</a></h5>
                   <p class="bk_pra">Coding, Design</p>
                 </div>
               </div>
@@ -133,12 +133,12 @@
             <div class="portfolio with-caption">
               <div class="thumb">
                 <a href="/Portfolio/Starbucks.php">
-                  <img src="img/video-1.png" alt="portfolio images">  </a>
+                  <img src="img/landing-port/cool.png" alt="portfolio images">  </a>
               </div>
               <div class="caption-bottom text-center">
                 <div class="info">
-                  <h5 class="heading heading-h5"><a href="/Portfolio/Starbucks.php">Starbucks Christmas Ad</a></h5>
-                  <p class="bk_pra">Sounds, Project Management</p>
+                  <h5 class="heading heading-h5"><a href="/Portfolio/Starbucks.php">Music Video - "Cool"</a></h5>
+                  <p class="bk_pra">Music, Project Management</p>
                 </div>
               </div>
             </div>
@@ -150,7 +150,7 @@
             <div class="portfolio with-caption">
               <div class="thumb">
                 <a href="/visualization-project-001/index.html">
-                                    <img src="img/video-1.png" alt="portfolio images">
+                                    <img src="img/landing-portfolio/covid.png" alt="portfolio images">
                                 </a>
               </div>
               <div class="caption-bottom text-center">
