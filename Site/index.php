@@ -58,7 +58,7 @@
                   <div class="profile">
                     <h5 class="heading heading-h5 theme-color">Nice To Meet You.</h5>
                     <div class="bkseparator--20"></div>
-                    <p class="bk_pra">Hi, I'm Al!. I am a media creator, software developer and project manager. I am informed by 10+ years of a design-driven creativity across a variety of media and tech projects. 4+ years agency experience ranging from NYC startups to
+                    <p class="bk_pra">Hi, I'm Al!. I am a media creator, software developer and project manager. I am informed by 11+ years of a design-driven creativity across a variety of media and tech projects. 4+ years agency experience ranging from NYC startups to
                       nation-wide corporations. 2 years as a very-busy business owner-- helping businesses grow their identity and productivity through media production, software/web development, and branding.
                     </p>
                     <br>
