@@ -33,7 +33,7 @@
                     </h1> <br>
                     <h1 class="bk-hover "><a href="https://nightingalemedia.github.io/"><span class="">Code Work</span></a></h1><br>
                     <h1 class="bk-hover "><a href="/Sound-Portfolio.php"><span class="">Creative Work</span></a></h1><br>
-                    <h2 class="bk-hover "><a href="/"><span class="">. . . Everything Else</span></a></h2>
+                    <h2 class="bk-hover "><a href="/" style="margin-left: 42%;"><span class="">. . . Everything Else</span></a></h2>
               </div>
             </div>
           </div>
