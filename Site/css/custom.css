@@ -1,0 +1,76 @@
+/*********************************************************************************
+
+	Template Name: Template Full Name Here
+	Description: A perfect template to build beautiful and unique medical websites. It comes with nice and clean design.
+	Version: 1.0
+
+	Note: This is custom css.
+
+**********************************************************************************/
+
+.breadcaump-inner > h2 {
+  font-size: 4rem !important;
+  color: white;
+}
+
+
+.thumb{
+  overflow: hidden;
+
+background-repeat: no-repeat;
+background-size: contain;
+background-position: center center;
+}
+
+#homepage-holder{
+  z-index: -1;
+  display:relative;
+
+}
+.vertical-slider-area{
+  height: 970px !important;
+}
+
+.creative-people-inner{
+  position: absolute;
+  z-index: 100;
+  right: 2rem;
+  top: 15rem;
+}
+
+.portfolio-title {
+  min-height: 500px;
+  display: block;
+  text-align: left !important;
+}
+
+.homepage{
+  z-index: -1;
+}
+
+.homepage h1 {
+  font-size: 4.5em !important;
+  font-weight: 900 !important;
+  font-family: Josefin Sans;
+/*   z-index: 3;
+  line-height: auto !important; */
+}
+
+.greyed-bg{
+  background-color: #fefffe;
+}
+
+.brand img {
+  max-height: 200px;
+}
+
+.logo-img{
+ height: 60px;
+ width: auto;
+}
+
+.email-link{
+  color: #00B2CA;
+}
+
+}

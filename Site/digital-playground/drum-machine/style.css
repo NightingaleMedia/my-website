@@ -1,0 +1,43 @@
+body {
+  background-color: #181818;
+  font-family: monospace;
+}
+
+h1{
+  font-size: 3em;
+  color: white;
+}
+.drum-container{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 100vh;
+  display: grid;
+  align-content: center;
+  justify-content: center;
+  grid-template-columns: repeat(4, 150px);
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  grid-template-rows: auto;
+}
+
+.single-drum{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  vertical-align: center;
+  
+  height: 150px;
+  width: 150px;
+  border: 1px solid purple;
+  color: white;
+  text-align: center;
+  font-size: 2em;
+  background-color: rgba(0,0,125,0.2);
+  transition: all 0.1s;
+}
+
+.playing{
+  transform: scale(1.1);
+  border-color: yellow;
+}
