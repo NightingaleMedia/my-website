@@ -2,8 +2,6 @@ var c = document.getElementById("homepage-holder");
 const navLinks = document.querySelectorAll('.homepage h1 > a, .homepage h2 > a' );
 
 
-
-
 var ctx = c.getContext("2d");
 var cH;
 var cW;
@@ -12,7 +10,7 @@ var animations = [];
 var circles = [];
 
 var colorPicker = (function() {
-  var colors = ["#512677", "#f78e1e", "#0084f5", "#ea212d", "#1f252f"];
+  var colors = ["#512677", "1f252f", "#0084f5", "#ea212d", "f78e1e"];
   var index = 0;
   function next() {
     index = index++ < colors.length-1 ? index : 0;
