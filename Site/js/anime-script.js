@@ -10,7 +10,7 @@ var animations = [];
 var circles = [];
 
 var colorPicker = (function() {
-  var colors = ["#512677", "1f252f", "#0084f5", "#ea212d", "f78e1e"];
+  var colors = ["#512677", "#1f252f", "#0084f5", "#ea212d", "#f78e1e"];
   var index = 0;
   function next() {
     index = index++ < colors.length-1 ? index : 0;
@@ -49,7 +49,8 @@ function handleEvent(e) {
     }
     var currentColor = colorPicker.current();
     var nextColor = colorPicker.next();
-    if(nextColor == "#1f252f" || nextColor == '#512677'){
+    if((nextColor == "#1f252f") || (nextColor == '#512677')){
+      console.log('yed')
        navLinks.forEach(link => link.style.color = '#FFFFFF');
        } else {
         navLinks.forEach(link => link.style.color = '#181818');

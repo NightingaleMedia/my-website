@@ -17,6 +17,9 @@
     <link rel="apple-touch-icon" href="<?php url_for('Site/img/icon.png');?>">
 
     <!-- Plugins -->
+    <link rel="stylesheet" href="https://unpkg.com/nprogress@0.2.0/nprogress.css">
+
+    
     <link rel="stylesheet" href="<?php echo url_for("css/bootstrap.min.css");?>">
     <link rel="stylesheet" href="<?php echo url_for("css/revoulation.css");?>">
     <link rel="stylesheet" href="<?php echo url_for("css/plugins.css");?>">
