@@ -42,7 +42,7 @@
           <div class="portfolio-33-33 coding design">
             <div class="portfolio with-caption">
               <div class="thumb">
-                <a href="portfolio-details.html">
+                <a href="http://www.albertsigman.com/CL-OrderForm/current.html">
                 <img src="img/landing-portfolio/orderform.png" alt="portfolio images">
                  </a>
 
@@ -58,7 +58,7 @@
               <div class="caption-bottom text-center">
                 <div class="info">
                   <h5 class="heading heading-h5">
-                    <a href="http://ledlightingsupplyco.com" target="_blank">SPA Online Ordering Form</a></h5>
+                    <a href="http://www.albertsigman.com/CL-OrderForm/current.html" target="_blank">SPA Online Ordering Form</a></h5>
                   <p class="bk_pra">Coding</p>
                 </div>
               </div>
@@ -117,7 +117,7 @@
                   </a>
                 </div> -->
                 <!-- End Single Popup -->
-              </div>
+              </div><i class="fab fa-space-station-moon"></i>
               <div class="caption-bottom text-center">
                 <div class="info">
                   <h5 class="heading heading-h5"><a href="#">Lumens Web App</a></h5>
