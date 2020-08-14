@@ -70,14 +70,14 @@
           <div class="portfolio-33-33 sound other">
             <div class="portfolio with-caption">
               <div class="thumb">
-                <a href="portfolio-details.html">
+                <a href="Portfolio/Bai.php">
                 <img src="img/landing-portfolio/bai.png" alt="portfolio images">
                                 </a>
               </div>
               <div class="caption-bottom text-center">
                 <div class="info">
                   <h5 class="heading heading-h5">
-                    <a href="portfolio-details.html">Bai "HealthyLicious"</a></h5>
+                    <a href="Portfolio/Bai.php">Bai "HealthyLicious"</a></h5>
                   <p class="bk_pra">Sound, Project Management</p>
                 </div>
               </div>
