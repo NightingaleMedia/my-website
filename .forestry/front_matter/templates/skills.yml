@@ -22,3 +22,5 @@ fields:
       file: 
       path: 
   label: Mastery
+pages:
+- skills/skills.md
